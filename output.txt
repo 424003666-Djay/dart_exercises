@@ -1,0 +1,4 @@
+Customer: Alicia
+Total: 148.5
+Is the total over 100? true
+Is the customer a member? true

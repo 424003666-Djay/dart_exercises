@@ -1,0 +1,8 @@
+name: dart_exercises
+description: Week 7 Dart fundamentals exercises
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
